@@ -46,6 +46,7 @@ Otherwise start installing pihole with:
 ```
 curl -sSL https://install.pi-hole.net | sudo bash
 ```
+> If you're trying to install pihole on an ubuntu computer, and the pihole setup freezes for a while, quit out of the set up and run `sudo apt install -y gamin` before trying again.
 The pihole setup is going to ask for an interface.
 
 Choose `tun0` by selecting it and pressing space, then enter.
