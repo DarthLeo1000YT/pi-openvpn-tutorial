@@ -50,7 +50,7 @@ The pihole setup is going to ask for an interface.
 
 Choose `tun0` by selecting it and pressing space, then enter.
 
-Press enter again to accept blocking ads over ipv4d.
+Press enter again to accept blocking ads over ipv4.
 
 The following screen states:
 
